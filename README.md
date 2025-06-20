@@ -20,6 +20,7 @@ Supports setting primary keys and column attributes
 Automatically commits changes to the MySQL database
 
 💻 Built With
+
 Python 3.x
 
 mysql-connector-python
