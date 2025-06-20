@@ -2,9 +2,8 @@
 A command-line utility written in Python that lets you dynamically create, inspect, and manipulate MySQL tables interactively. Ideal for testing database schemas and practicing SQL from a Python environment.
 
 🛠️ Features
-Interactive CLI for:
 
-Creating tables with dynamic columns
+Creating tables 
 
 Inserting data
 
